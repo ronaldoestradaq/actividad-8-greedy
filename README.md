@@ -16,7 +16,7 @@ Este repositorio contiene la implementación en C++ de dos problemas resueltos m
 
 \## Requisitos y Compilación
 
-\- Compilador de C++ (g++)
+\- Compilador de C++
 
 \- Compilación: `g++ mochila_fraccional.cpp` y `g++ cobertura_antenas.cpp`
 
